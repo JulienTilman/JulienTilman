@@ -1,4 +1,4 @@
-### Learner
+### ABOUT ME 
 
 - 👋 Hi, I’m @JulienTilman
 - 👀 I’m interested in HTML, CSS, JS
