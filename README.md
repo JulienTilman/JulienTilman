@@ -1,7 +1,7 @@
 ### ABOUT ME 
 
 - 👋 Hi, I’m @JulienTilman
-- 👀 I’m interested in HTML, CSS, JS
+- 👀 I’m interested in HTML, CSS, JS and Salesforce.
 - 🌱 I’m currently learning at BeCode
 - 📫 How to reach me --> julien.tilman@outlook.com
 <!---
